@@ -1,0 +1,24 @@
+{
+    "personalDetails": { 
+        "firstName": "John",
+        "dateOfBirth": "1990-01-01",
+        "residentStatusNZ": "Yes",
+        "smokerStatus": "No",
+        "personType": "Main member",
+        "emailAddress": "johndoe1@gmail.com",
+        "phoneNumber": "+64 123456789",
+        "financialAdviser": "No"
+    },
+    "Adult Cover": {
+        "cover": "SmartCare",
+        "Excess": "$500",
+        "Specialist Cover": "No",
+        "Dental and Optical Cover": "Yes"
+    },
+    "Premium Breakdown": {
+        "H&S Premium": "$145.34",
+        "Specialist Cover": "$0.00",
+        "Dental and Optical Cover": "$39.77",
+        "Total Premium": "$185.11"
+    }
+}
